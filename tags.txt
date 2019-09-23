@@ -1,0 +1,15 @@
+user_id	item_id	tag
+1	Titanic	literature
+1	Spider-Man	Marvel
+2	Titanic	literature
+2	Avengers	Marvel
+2	Nezha	Cartoon
+3	Avengers	Marvel
+3	Titanic	literature
+3	Le_Petit_Prince	Cartoon
+3	Your_Name	Cartoon
+4	Spider-Man	Marvel
+4	Le_Petit_Prince	Cartoon
+4	Nezha	Cartoon
+5	Titanic	literature
+5	Iron-Man	Marvel
